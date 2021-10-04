@@ -36,12 +36,14 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: Maths1
+      url: /maths1/
+    - text: Maths2
+      url: /maths2/
     - text: Projects
       url: /projects/
     - text: Blogs
       url: /blogs/
-    - text: Maths1
-      url: /maths1/
 # url: "http://localhost:4000"
 url: "https://lezaz1977.github.io/"
 baseurl: ""
