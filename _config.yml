@@ -7,7 +7,7 @@ github: https://github.com/lezaz1977
 about: I'm a teacher of Mathématiques at University Yahia Fares Médéa
 disqus_shortname: programming
 google_analytics: UA-31048387-6
-avatar_url: /static/img/me.jpg
+#avatar_url: /static/img/me.jpg
 
 enableTags: true
 tagarray: []
