@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+I am currently a teacher of Mathématiques at <a href="http://www.univ-medea.dz/" target="_blank">University Yahia fares, Médéa </a>. My field the research is Partial Differential Equations. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
