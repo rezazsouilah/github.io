@@ -6,8 +6,8 @@ phone: +213 780409205
 github: https://github.com/lezaz1977
 about: I'm a teacher of Mathématiques at University Yahia Fares Médéa
 disqus_shortname: programming
-google_analytics: UA-31048387-6
-#avatar_url: /static/img/me.jpg
+#google_analytics: UA-31048387-6
+avatar: https://github.com/lezaz1977/lezaz1977.github.io/tree/master/static/img/me.jpg
 
 enableTags: true
 tagarray: []
