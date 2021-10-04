@@ -1,7 +1,6 @@
 ---
-layout: project
-title: Projects
-permalink: /projects/
+layout: cours
+title: Cours
+permalink: /cours/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
