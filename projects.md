@@ -1,6 +1,6 @@
 ---
-layout: cours
-title: Cours
-permalink: /cours/
+layout: project
+title: Cours 
+permalink: /projects/
 ---
 
