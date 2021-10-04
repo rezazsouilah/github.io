@@ -40,8 +40,8 @@ urls:
       url: /projects/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Maths1
+      url: /maths1/
 # url: "http://localhost:4000"
 url: "https://lezaz1977.github.io/"
 baseurl: ""
